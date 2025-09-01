@@ -24,15 +24,15 @@
         "@schematics/angular:component": {
           "type": "component",
           "style": "scss",
-          "standalone": false
+          "standalone": true
         },
         "@schematics/angular:directive": {
           "type": "directive",
-          "standalone": false
+          "standalone": true
         },
         "@schematics/angular:pipe": {
           "typeSeparator": ".",
-          "standalone": false
+          "standalone": true
         }
       },
       "root": "",

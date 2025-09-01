@@ -1,4 +1,15 @@
-# Angular20StandaloneStarter
+# Angular 20 Standalone Starter
+
+https://github.com/mbachmann/angular-20-standalone-starter-.git
+
+## Content
+
+* ESLint
+* Prettier
+* Karma Debug Configuration
+* existing dot filename schematics
+* Bootstrap
+* Fontawesome
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.0.
 
